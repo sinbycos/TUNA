@@ -1,4 +1,4 @@
-This directory contains a single object tracker called TUNA ( Paper titled 'Tracking using Numerous Anchor points' , submitted to MVA). 
+This directory contains a single object tracker called TUNA ( Paper titled 'Tracking using Numerous Anchor points'). 
 
 It uses binary, color and keypoint features for object tracking.
 
